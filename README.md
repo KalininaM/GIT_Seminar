@@ -1,3 +1,1 @@
 # GIT_Seminar
-
-Hello!
